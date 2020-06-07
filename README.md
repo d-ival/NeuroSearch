@@ -1,4 +1,4 @@
-# NeuroSearch
+# Neuro Startup
 
 ![](logo.png)
 
